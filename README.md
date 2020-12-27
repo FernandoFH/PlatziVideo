@@ -1,2 +1,2 @@
 # PlatziVideo
-Aplicacion de video | FullStack practice 
+Aplicacion de video | Practica FullStack Js  
